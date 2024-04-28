@@ -1,0 +1,14 @@
+D:\IDE\Visual studio2022\Projects\ModbusTcpClient\ModbusTcpClient\obj\Debug\ModbusTcpClient.csproj.AssemblyReference.cache
+D:\IDE\Visual studio2022\Projects\ModbusTcpClient\ModbusTcpClient\obj\Debug\ModbusTcpClient.Form1.resources
+D:\IDE\Visual studio2022\Projects\ModbusTcpClient\ModbusTcpClient\obj\Debug\ModbusTcpClient.Properties.Resources.resources
+D:\IDE\Visual studio2022\Projects\ModbusTcpClient\ModbusTcpClient\obj\Debug\ModbusTcpClient.csproj.GenerateResource.cache
+D:\IDE\Visual studio2022\Projects\ModbusTcpClient\ModbusTcpClient\obj\Debug\ModbusTcpClient.csproj.CoreCompileInputs.cache
+D:\IDE\Visual studio2022\Projects\ModbusTcpClient\ModbusTcpClient\bin\Debug\ModbusTcpClient.exe.config
+D:\IDE\Visual studio2022\Projects\ModbusTcpClient\ModbusTcpClient\bin\Debug\ModbusTcpClient.exe
+D:\IDE\Visual studio2022\Projects\ModbusTcpClient\ModbusTcpClient\bin\Debug\ModbusTcpClient.pdb
+D:\IDE\Visual studio2022\Projects\ModbusTcpClient\ModbusTcpClient\obj\Debug\ModbusTcpClient.exe
+D:\IDE\Visual studio2022\Projects\ModbusTcpClient\ModbusTcpClient\obj\Debug\ModbusTcpClient.pdb
+D:\IDE\Visual studio2022\Projects\ModbusTcpClient\ModbusTcpClient\bin\Debug\NModbus4.dll
+D:\IDE\Visual studio2022\Projects\ModbusTcpClient\ModbusTcpClient\bin\Debug\NModbus4.xml
+D:\IDE\Visual studio2022\Projects\ModbusTcpClient\ModbusTcpClient\obj\Debug\ModbusTcpClient.Form2.resources
+D:\IDE\Visual studio2022\Projects\ModbusTcpClient\ModbusTcpClient\obj\Debug\ModbusTc.DF78D84F.Up2Date

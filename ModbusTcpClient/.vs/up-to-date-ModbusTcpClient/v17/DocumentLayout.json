@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IDE\\Visual studio2022\\Projects\\ModbusTcpClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F552A4EB-F438-4BB1-8996-90C44FC18F0B}|ModbusTcpClient\\ModbusTcpClient.csproj|d:\\ide\\visual studio2022\\projects\\modbustcpclient\\modbustcpclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F552A4EB-F438-4BB1-8996-90C44FC18F0B}|ModbusTcpClient\\ModbusTcpClient.csproj|solutionrelative:modbustcpclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F552A4EB-F438-4BB1-8996-90C44FC18F0B}|ModbusTcpClient\\ModbusTcpClient.csproj|D:\\IDE\\Visual studio2022\\Projects\\ModbusTcpClient\\modbustcpclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F552A4EB-F438-4BB1-8996-90C44FC18F0B}|ModbusTcpClient\\ModbusTcpClient.csproj|solutionrelative:modbustcpclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\IDE\\Visual studio2022\\Projects\\ModbusTcpClient\\ModbusTcpClient\\Form1.cs",
+              "RelativeDocumentMoniker": "ModbusTcpClient\\Form1.cs",
+              "ToolTip": "D:\\IDE\\Visual studio2022\\Projects\\ModbusTcpClient\\ModbusTcpClient\\Form1.cs",
+              "RelativeToolTip": "ModbusTcpClient\\Form1.cs",
+              "ViewState": "AQIAAK4BAAAAAAAAAAAAAK4BAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:10:24.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\IDE\\Visual studio2022\\Projects\\ModbusTcpClient\\ModbusTcpClient\\Form1.cs",
+              "RelativeDocumentMoniker": "ModbusTcpClient\\Form1.cs",
+              "ToolTip": "D:\\IDE\\Visual studio2022\\Projects\\ModbusTcpClient\\ModbusTcpClient\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ModbusTcpClient\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-28T07:04:19.357Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

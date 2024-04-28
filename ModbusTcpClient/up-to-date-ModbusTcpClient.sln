@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusTcpClient", "ModbusTcpClient\ModbusTcpClient.csproj", "{F552A4EB-F438-4BB1-8996-90C44FC18F0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F552A4EB-F438-4BB1-8996-90C44FC18F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F552A4EB-F438-4BB1-8996-90C44FC18F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F552A4EB-F438-4BB1-8996-90C44FC18F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F552A4EB-F438-4BB1-8996-90C44FC18F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4175407C-CC80-4D86-AF3F-F9E1F57891B0}
+	EndGlobalSection
+EndGlobal
